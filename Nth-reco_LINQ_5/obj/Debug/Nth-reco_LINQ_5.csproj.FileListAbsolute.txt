@@ -1,0 +1,8 @@
+F:\vs-Project\Nth-reco_LINQ_5\Nth-reco_LINQ_5\bin\Debug\Nth-reco_LINQ_5.exe.config
+F:\vs-Project\Nth-reco_LINQ_5\Nth-reco_LINQ_5\bin\Debug\Nth-reco_LINQ_5.exe
+F:\vs-Project\Nth-reco_LINQ_5\Nth-reco_LINQ_5\bin\Debug\Nth-reco_LINQ_5.pdb
+F:\vs-Project\Nth-reco_LINQ_5\Nth-reco_LINQ_5\obj\Debug\Nth-reco_LINQ_5.csproj.AssemblyReference.cache
+F:\vs-Project\Nth-reco_LINQ_5\Nth-reco_LINQ_5\obj\Debug\Nth-reco_LINQ_5.csproj.SuggestedBindingRedirects.cache
+F:\vs-Project\Nth-reco_LINQ_5\Nth-reco_LINQ_5\obj\Debug\Nth-reco_LINQ_5.csproj.CoreCompileInputs.cache
+F:\vs-Project\Nth-reco_LINQ_5\Nth-reco_LINQ_5\obj\Debug\Nth-reco_LINQ_5.exe
+F:\vs-Project\Nth-reco_LINQ_5\Nth-reco_LINQ_5\obj\Debug\Nth-reco_LINQ_5.pdb
